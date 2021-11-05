@@ -1,0 +1,30 @@
+.my-pagination /deep/ .ngx-pagination .current {
+  background: black;
+}
+
+.my-pagination /deep/ .pagination-next{
+  background-color: black;
+}
+
+.my-pagination /deep/ .pagination-next a:hover{
+  background-color: white;
+  color: black;
+  border: black 1px solid;
+}
+
+.my-pagination /deep/ .pagination-next a{
+  color:aliceblue;
+}
+.my-pagination /deep/ .pagination-previous{
+  background-color: black;
+}
+
+.my-pagination /deep/ .pagination-previous a{
+  color:aliceblue;
+}
+
+.my-pagination /deep/ .pagination-previous a:hover{
+  background-color: white;
+  color: black;
+  border: black 1px solid;
+}
